@@ -5,7 +5,7 @@ interactive sound sculpture, open hardware
 
 open hardware || arduino + microelctronic
 
-tijuana MX 2009 - 2010 / Carmen Gonzalez
+tijuana MX 2011 - 2013 / Carmen Gonzalez
 
 Códigos en arduino comentados en español
 
