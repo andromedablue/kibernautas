@@ -3,6 +3,8 @@
 // Jacob Peck (a.k.a. ~suspended-chord, http://suspended-chord.info)
 // adapted from http://www.adafruit.com/blog/2009/05/19/piezo-with-an-arduino-photoresistor/
 
+// Modified Carmen Gonzalez 2011
+
 // circuit:
 // pin d9: pin > +buzzer- > gnd
 // pin d10: pin > switch > 5v, switch > 10kOhm resistor > gnd (optional)
